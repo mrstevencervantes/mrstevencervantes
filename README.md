@@ -1,4 +1,6 @@
-<img src="/roman-synkevych-vXInUOv1n84-unsplash.jpg" style="vertical-align: middle" />
+<p align="center">
+  <img src="/roman-synkevych-vXInUOv1n84-unsplash.jpg"/>
+</p>
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h3 align="center">Chatbot enthusiast</h3>
 
