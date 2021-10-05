@@ -1,6 +1,7 @@
+<img src="/roman-synkevych-vXInUOv1n84-unsplash.jpg" style="vertical-align: middle" />
 <h1 align="center">Hi 👋, I'm Steven</h1>
 <h3 align="center">Chatbot enthusiast</h3>
-<img src="">
+
 
 - 🔭 I’m currently working on [Data Science](http://example.com)
 
