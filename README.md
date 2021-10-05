@@ -1,27 +1,27 @@
 <p align="center">
   <img src="/roman-synkevych-vXInUOv1n84-unsplash.jpg"/>
 </p>
-<h1 align="center">Hi 👋, I'm Steven</h1>
+<h1 align="center">Hi, I'm Steven!</h1>
 <h3 align="center">Chatbot enthusiast</h3>
 
 
-- 🔭 I’m currently working on [Data Science](http://example.com)
+- 🔭 I’m currently working on [TBD](http://example.com)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Python, Go and Data Science**
 
-- 👯 I’m looking to collaborate on [Open Source Projects](http://example.com)
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with [Conversational AI](http://example.com)
-
+- 🤝 I’m looking for help with **Conversational AI**
+<!--
 - 👨‍💻 All of my projects are available at [http://example.com](http://example.com)
-
-- 📝 I regularly write articles on [http://example.com](http://example.com)
+-->
+- 📝 I regularly write articles on [TBD](http://example.com)
 
 - 💬 Ask me about **Robotic Process Automation**
 <!--
 - 📄 Know about my experiences [http://example.com](http://example.com)
 -->
-- ⚡ Fun fact **I am an avid reader.**
+- ⚡ Fun fact: **I am an avid reader.**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrstevencervantes&label=Profile%20views&color=0e75b6&style=flat" alt="mrstevencervantes" /> </p>
 <!--
