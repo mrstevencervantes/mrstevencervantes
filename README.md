@@ -15,7 +15,7 @@
 <!--
 - 👨‍💻 All of my projects are available at [http://example.com](http://example.com)
 -->
-- 📝 I regularly write articles on [TBD](http://example.com)
+- 📝 I regularly write articles on [Medium](https://mrstevencervantes.medium.com)
 
 - 💬 Ask me about **Robotic Process Automation**
 <!--
