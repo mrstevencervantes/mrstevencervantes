@@ -5,9 +5,9 @@
 <h3 align="center">Chatbot enthusiast</h3>
 
 
-- 🔭 I’m currently working on in-depth learning of DSA, OOP and TDD.
+- 🔭 I’m currently working on developing a comprehensive understanding of Data Structures and Algorithms (DSA), Object-Oriented Programming (OOP) and Test-Driven Development TDD
 
-- 🌱 I’m currently learning **Data Analytics/Science with Python, network programming with Go and web dev with vanilla JS.**
+- 🌱 I’m currently learning **data science and analytics with Python, network programming with Go and web dev with vanilla JS**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -21,7 +21,7 @@
 <!--
 - 📄 Know about my experiences [http://example.com](http://example.com)
 -->
-- ⚡ Fun fact: **I am an avid reader.**
+- ⚡ Fun fact: **I am an avid reader**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrstevencervantes&label=Profile%20views&color=0e75b6&style=flat" alt="mrstevencervantes" /> </p>
 <!--
