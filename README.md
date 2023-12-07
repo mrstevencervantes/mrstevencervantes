@@ -5,9 +5,9 @@
 <h3 align="center">Chatbot enthusiast</h3>
 
 
-- 🔭 I’m currently working on [TBD](http://example.com)
+- 🔭 I’m currently working on in-depth learning of DSA, OOP and TDD.
 
-- 🌱 I’m currently learning **Python, Go and Data Science**
+- 🌱 I’m currently learning **Data Analytics/Science with Python, network programming with Go and web dev with vanilla JS.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
@@ -15,7 +15,7 @@
 <!--
 - 👨‍💻 All of my projects are available at [http://example.com](http://example.com)
 -->
-- 📝 I regularly write articles on [Medium](https://mrstevencervantes.medium.com)
+- 📝 I plan to regularly write articles on [Medium](https://mrstevencervantes.medium.com)
 
 - 💬 Ask me about **Robotic Process Automation**
 <!--
